@@ -25,7 +25,7 @@
 
 
 #### 使用方法
-
+把目前没有上架到pub，所以想用可以把 video_player_plus/player/lib/video_player_plus/ 目录下的四个文件复制到你的项目里就可以了，当然还要下载一下官方的video_player
 用法很极简，一行代码就可以搞定
 
 ```dart
